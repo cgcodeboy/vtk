@@ -1,0 +1,3 @@
+E:/program/vtk/vtkGeometry/CMakeFiles/vtkGeometry.dir
+E:/program/vtk/vtkGeometry/CMakeFiles/ALL_BUILD.dir
+E:/program/vtk/vtkGeometry/CMakeFiles/ZERO_CHECK.dir
