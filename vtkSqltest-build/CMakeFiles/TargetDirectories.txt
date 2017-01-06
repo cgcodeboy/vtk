@@ -1,2 +1,0 @@
-D:/my_program/vtk/vtkSqltest-build/CMakeFiles/vtkSqltest_automoc.dir
-D:/my_program/vtk/vtkSqltest-build/CMakeFiles/vtkSqltest.dir

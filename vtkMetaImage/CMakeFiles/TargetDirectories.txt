@@ -1,3 +1,0 @@
-E:/program/vtk/vtkMetaImage/CMakeFiles/vtkMetaImage.dir
-E:/program/vtk/vtkMetaImage/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/vtkMetaImage/CMakeFiles/ZERO_CHECK.dir

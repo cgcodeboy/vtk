@@ -1,3 +1,0 @@
-E:/program/vtk/vtkGray2Color/CMakeFiles/vtkGray2Color.dir
-E:/program/vtk/vtkGray2Color/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/vtkGray2Color/CMakeFiles/ZERO_CHECK.dir

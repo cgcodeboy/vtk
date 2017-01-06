@@ -1,1 +1,0 @@
-D:/my_program/vtk/vtkPolyDataColor-build/CMakeFiles/vtkPolyDataColor.dir

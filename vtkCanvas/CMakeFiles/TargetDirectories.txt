@@ -1,3 +1,0 @@
-E:/program/vtk/vtkCanvas/CMakeFiles/vtkCanvas.dir
-E:/program/vtk/vtkCanvas/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/vtkCanvas/CMakeFiles/ZERO_CHECK.dir

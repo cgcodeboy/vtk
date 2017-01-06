@@ -1,3 +1,0 @@
-"D:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\vtkCurvatures.dir/objects.a
-D:\Qt\Qt5.5.1\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\vtkCurvatures.dir/objects.a @CMakeFiles\vtkCurvatures.dir\objects1.rsp
-D:\Qt\Qt5.5.1\Tools\mingw492_32\bin\g++.exe    -mwin32 -mthreads    -mthreads -Wl,--whole-archive CMakeFiles\vtkCurvatures.dir/objects.a -Wl,--no-whole-archive  -o vtkCurvatures.exe -Wl,--out-implib,libvtkCurvatures.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vtkCurvatures.dir\linklibs.rsp

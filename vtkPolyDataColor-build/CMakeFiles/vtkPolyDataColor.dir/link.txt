@@ -1,3 +1,0 @@
-"D:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\vtkPolyDataColor.dir/objects.a
-D:\Qt\Qt5.5.1\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\vtkPolyDataColor.dir/objects.a @CMakeFiles\vtkPolyDataColor.dir\objects1.rsp
-D:\Qt\Qt5.5.1\Tools\mingw492_32\bin\g++.exe    -mwin32 -mthreads    -mthreads -Wl,--whole-archive CMakeFiles\vtkPolyDataColor.dir/objects.a -Wl,--no-whole-archive  -o vtkPolyDataColor.exe -Wl,--out-implib,libvtkPolyDataColor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vtkPolyDataColor.dir\linklibs.rsp

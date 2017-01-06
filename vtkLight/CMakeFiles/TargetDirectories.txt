@@ -1,3 +1,0 @@
-E:/program/vtk/vtkLight/CMakeFiles/vtkLight.dir
-E:/program/vtk/vtkLight/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/vtkLight/CMakeFiles/ZERO_CHECK.dir

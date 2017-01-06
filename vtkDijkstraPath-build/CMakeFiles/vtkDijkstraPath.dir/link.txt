@@ -1,3 +1,0 @@
-"D:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\vtkDijkstraPath.dir/objects.a
-D:\Qt\Qt5.5.1\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\vtkDijkstraPath.dir/objects.a @CMakeFiles\vtkDijkstraPath.dir\objects1.rsp
-D:\Qt\Qt5.5.1\Tools\mingw492_32\bin\g++.exe    -mwin32 -mthreads    -mthreads -Wl,--whole-archive CMakeFiles\vtkDijkstraPath.dir/objects.a -Wl,--no-whole-archive  -o vtkDijkstraPath.exe -Wl,--out-implib,libvtkDijkstraPath.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vtkDijkstraPath.dir\linklibs.rsp

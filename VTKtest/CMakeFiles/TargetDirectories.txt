@@ -1,3 +1,0 @@
-E:/program/vtk/VTKtest/CMakeFiles/testVtk.dir
-E:/program/vtk/VTKtest/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/VTKtest/CMakeFiles/ZERO_CHECK.dir

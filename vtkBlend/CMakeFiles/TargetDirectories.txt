@@ -1,3 +1,0 @@
-E:/program/vtk/vtkBlend/CMakeFiles/vtkBlend.dir
-E:/program/vtk/vtkBlend/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/vtkBlend/CMakeFiles/ZERO_CHECK.dir

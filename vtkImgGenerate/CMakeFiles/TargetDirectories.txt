@@ -1,3 +1,0 @@
-E:/program/vtk/vtkImgGenerate/CMakeFiles/vtkImgGenerate.dir
-E:/program/vtk/vtkImgGenerate/CMakeFiles/ALL_BUILD.dir
-E:/program/vtk/vtkImgGenerate/CMakeFiles/ZERO_CHECK.dir
