@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(vtkPolyDataConnectivity)
+FIND_PACKAGE(VTK REQUIRED)
+INCLUDE(${VTK_USE_FILE})
+ADD_EXECUTABLE(vtkPolyDataConnectivity vtkPolyDataConnectivity.cpp)
+TARGET_LINK_LIBRARIES(vtkPolyDataConnectivity ${VTK_LIBRARIES})
