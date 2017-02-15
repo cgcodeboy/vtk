@@ -1,1 +1,0 @@
-D:/my_program/vtk/vtkGaussian/CMakeFiles/vtkGaussian.dir
